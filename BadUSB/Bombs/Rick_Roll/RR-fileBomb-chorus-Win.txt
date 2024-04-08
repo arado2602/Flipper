@@ -1,7 +1,7 @@
 REM Title: Powershell RickRoll Chorus FileBomb
 REM Author: 7h30th3r0n3
 REM Props: UberGuidoZ for the playground database: https://github.com/UberGuidoZ/Flipper
-REM Target: Windows 7/8/10/11
+REM Target: IOS 16.6.1
 REM Version: 1.0
 REM Category: Prank
 REM start a powershell and fill the default windows folders with Rick's chorus lyrics
